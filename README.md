@@ -31,3 +31,8 @@ HangToken-0x197aE9be9B2F09dA341EF3B0A44491dF027F1aF0
 HangCrypt-0x3d56130660a8b9f5a24caeb74ddc241cd91accb2
  Deployment to ROPSTEN is taking some time 
  ```
+ 
+ ### Deployed site
+ 
+ https://brianspha.github.io/HangCrypDeployed/
+ 
