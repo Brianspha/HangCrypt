@@ -1,0 +1,433 @@
+[{
+		"word": "ABRUPTLY",
+		"difficulty": 6
+	},
+	{
+		"word": "ABSURD",
+		"difficulty": 1
+	},
+	{
+		"word": "ABYSS",
+		"difficulty": 7
+	},
+	{
+		"word": "AFFIX",
+		"difficulty": 3
+	},
+	{
+		"word": "ASKEW",
+		"difficulty": 2
+	},
+	{
+		"word": "AVENUE",
+		"difficulty": 1
+	},
+	{
+		"word": "AWKWARD",
+		"difficulty": 3
+	},
+	{
+		"word": "AXIOM",
+		"difficulty": 6
+	},
+	{
+		"word": "AZURE",
+		"difficulty": 2
+	},
+	{
+		"word": "BAGPIPES",
+		"difficulty": 3
+	},
+	{
+		"word": "BANDWAGON",
+		"difficulty": 4
+	},
+	{
+		"word": "BANJO",
+		"difficulty": 5
+	},
+	{
+		"word": "BAYOU",
+		"difficulty": 5
+	},
+	{
+		"word": "BEEKEEPER",
+		"difficulty": 5
+	},
+	{
+		"word": "BIKINI",
+		"difficulty": 6
+	},
+	{
+		"word": "BLITZ",
+		"difficulty": 6
+	},
+	{
+		"word": "BLIZZARD",
+		"difficulty": 1
+	},
+	{
+		"word": "BOGGLE",
+		"difficulty": 6
+	},
+	{
+		"word": "BOOKWORM",
+		"difficulty": 5
+	},
+	{
+		"word": "BOXCAR",
+		"difficulty": 2
+	},
+	{
+		"word": "BOXFUL",
+		"difficulty": 2
+	},
+	{
+		"word": "BUCKAROO",
+		"difficulty": 1
+	},
+	{
+		"word": "BUFFALO",
+		"difficulty": 1
+	},
+	{
+		"word": "BUFFOON",
+		"difficulty": 4
+	},
+	{
+		"word": "BUXOM",
+		"difficulty": 6
+	},
+	{
+		"word": "BUZZARD",
+		"difficulty": 4
+	},
+	{
+		"word": "BUZZING",
+		"difficulty": 5
+	},
+	{
+		"word": "BUZZ",
+		"difficulty": 4
+	},
+	{
+		"word": "CALIPH",
+		"difficulty": 6
+	},
+	{
+		"word": "COBWEB",
+		"difficulty": 2
+	},
+	{
+		"word": "COCKINESS",
+		"difficulty": 6
+	},
+	{
+		"word": "CROQUET",
+		"difficulty": 3
+	},
+	{
+		"word": "CRYPT",
+		"difficulty": 5
+	},
+	{
+		"word": "CURACAO",
+		"difficulty": 6
+	},
+	{
+		"word": "CYCLE",
+		"difficulty": 2
+	},
+	{
+		"word": "DAIQUIRI",
+		"difficulty": 2
+	},
+	{
+		"word": "DIRNDL",
+		"difficulty": 6
+	},
+	{
+		"word": "DISAVOW",
+		"difficulty": 5
+	},
+	{
+		"word": "DIZZYING",
+		"difficulty": 1
+	},
+	{
+		"word": "DUPLEX",
+		"difficulty": 5
+	},
+	{
+		"word": "DWARVES",
+		"difficulty": 3
+	},
+	{
+		"word": "EMBEZZLE",
+		"difficulty": 6
+	},
+	{
+		"word": "EQUIP",
+		"difficulty": 4
+	},
+	{
+		"word": "ESPIONAGE",
+		"difficulty": 4
+	},
+	{
+		"word": "EUOUAE",
+		"difficulty": 1
+	},
+	{
+		"word": "EXODUS",
+		"difficulty": 5
+	},
+	{
+		"word": "FAKING",
+		"difficulty": 6
+	},
+	{
+		"word": "FISHHOOK",
+		"difficulty": 6
+	},
+	{
+		"word": "FIXABLE",
+		"difficulty": 6
+	},
+	{
+		"word": "FJORD",
+		"difficulty": 6
+	},
+	{
+		"word": "FLAPJACK",
+		"difficulty": 5
+	},
+	{
+		"word": "FLOPPING",
+		"difficulty": 6
+	},
+	{
+		"word": "FLUFFINESS",
+		"difficulty": 1
+	},
+	{
+		"word": "FLYBY",
+		"difficulty": 5
+	},
+	{
+		"word": "FOXGLOVE",
+		"difficulty": 2
+	},
+	{
+		"word": "FRAZZLED",
+		"difficulty": 6
+	},
+	{
+		"word": "FRIZZLED",
+		"difficulty": 6
+	},
+	{
+		"word": "FUCHSIA",
+		"difficulty": 5
+	},
+	{
+		"word": "FUNNY",
+		"difficulty": 3
+	},
+	{
+		"word": "GABBY",
+		"difficulty": 4
+	},
+	{
+		"word": "GALAXY",
+		"difficulty": 4
+	},
+	{
+		"word": "GALVANIZE",
+		"difficulty": 2
+	},
+	{
+		"word": "GAZEBO",
+		"difficulty": 1
+	},
+	{
+		"word": "GIAOUR",
+		"difficulty": 5
+	},
+	{
+		"word": "GIZMO",
+		"difficulty": 2
+	},
+	{
+		"word": "GLOWWORM",
+		"difficulty": 3
+	},
+	{
+		"word": "GLYPH",
+		"difficulty": 6
+	},
+	{
+		"word": "GNARLY",
+		"difficulty": 4
+	},
+	{
+		"word": "GNOSTIC",
+		"difficulty": 3
+	},
+	{
+		"word": "GOSSIP",
+		"difficulty": 4
+	},
+	{
+		"word": "GROGGINESS",
+		"difficulty": 5
+	},
+	{
+		"word": "HAIKU",
+		"difficulty": 6
+	},
+	{
+		"word": "HAPHAZARD",
+		"difficulty": 2
+	},
+	{
+		"word": "HYPHEN",
+		"difficulty": 2
+	},
+	{
+		"word": "IATROGENIC",
+		"difficulty": 5
+	},
+	{
+		"word": "ICEBOX",
+		"difficulty": 3
+	},
+	{
+		"word": "INJURY",
+		"difficulty": 5
+	},
+	{
+		"word": "IVORY",
+		"difficulty": 3
+	},
+	{
+		"word": "IVY",
+		"difficulty": 5
+	},
+	{
+		"word": "JACKPOT",
+		"difficulty": 7
+	},
+	{
+		"word": "JAUNDICE",
+		"difficulty": 7
+	},
+	{
+		"word": "JAWBREAKER",
+		"difficulty": 7
+	},
+	{
+		"word": "JAYWALK",
+		"difficulty": 7
+	},
+	{
+		"word": "JAZZIEST",
+		"difficulty": 7
+	},
+	{
+		"word": "JAZZY",
+		"difficulty": 7
+	},
+	{
+		"word": "JELLY",
+		"difficulty": 7
+	},
+	{
+		"word": "JIGSAW",
+		"difficulty": 7
+	},
+	{
+		"word": "JINX",
+		"difficulty": 7
+	},
+	{
+		"word": "JIUJITSU",
+		"difficulty": 7
+	},
+	{
+		"word": "JOCKEY",
+		"difficulty": 7
+	},
+	{
+		"word": "JOGGING",
+		"difficulty": 7
+	},
+	{
+		"word": "JOKING",
+		"difficulty": 7
+	},
+	{
+		"word": "JOVIAL",
+		"difficulty": 7
+	},
+	{
+		"word": "JOYFUL",
+		"difficulty": 7
+	},
+	{
+		"word": "JUICY",
+		"difficulty": 7
+	},
+	{
+		"word": "JUKEBOX",
+		"difficulty": 7
+	},
+	{
+		"word": "JUMBO",
+		"difficulty": 7
+	},
+	{
+		"word": "KAYAK",
+		"difficulty": 4
+	},
+	{
+		"word": "KAZOO",
+		"difficulty": 4
+	},
+	{
+		"word": "KEYHOLE",
+		"difficulty": 1
+	},
+	{
+		"word": "KHAKI",
+		"difficulty": 6
+	},
+	{
+		"word": "KILOBYTE",
+		"difficulty": 3
+	},
+	{
+		"word": "KIOSK",
+		"difficulty": 3
+	},
+	{
+		"word": "KITSCH",
+		"difficulty": 4
+	},
+	{
+		"word": "KIWIFRUIT",
+		"difficulty": 6
+	},
+	{
+		"word": "KLUTZ",
+		"difficulty": 3
+	},
+	{
+		"word": "KNAPSACK",
+		"difficulty": 3
+	},
+	{
+		"word": "LARYNX",
+		"difficulty": 1
+	}
+]

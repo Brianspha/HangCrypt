@@ -1,0 +1,74 @@
+/*
+@dev Hangman styling start
+*/
+
+body,
+button {
+  font-family: "Permanent Marker", cursive;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.drawing {
+  max-height: 60vh;
+}
+
+path {
+  fill: none;
+  stroke: #363636;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.gallows path {
+  stroke-width: 6.65px;
+}
+
+.person path {
+  stroke-width: 5px;
+}
+
+.person__eye-l path {
+  stroke-linecap: butt;
+  stroke-width: 8.3px;
+}
+
+.letter-buttons button:disabled {
+  opacity: 0.15;
+}
+
+.letter-buttons button.is--wrong,
+.letter-buttons button.is--wrong:hover {
+  color: #f50;
+  opacity: 1;
+}
+
+.word-letters__letter {
+  border-bottom: 5px solid #363636;
+  display: inline-block;
+  margin-right: 2rem;
+  text-align: center;
+  width: 4rem;
+}
+
+.addons {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+@media only screen and (max-width: 1000px) {
+  body {
+    margin-bottom: 100px;
+  }
+}
+
+#app {
+  display: none;
+}
+
+/*
+@dev Hangman styling end
+*/

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>HangCrypt</title>
+	<link rel="stylesheet" href="css/mainMenu.css">
+</head>
+
+<body>
+	<!-- MENU SCREEN -->
+	<div class="screen menu">
+		<h1 class="title">HangCrypt</h1>
+		<p><button id="challenge-button" data-screen="challenges">CHALLENGES</button></p>
+		<p><button id="instructions-button" data-screen="instructions">INSTRUCTIONS</button></p>
+		<p><button id="instructions-button" data-screen="credits">CREDITS</button></p>
+	</div>
+	<!-- INSTRUCTION SCREEN -->
+	<div class="screen instructions">
+		<h1 class="title">INSTRUCTIONS</h1>
+		<h3>Controls:</h3>
+		<p>
+			Click on any of the characters to guess
+		</p>
+		<p class="footer">
+			<button data-screen="menu">BACK TO MENU</button>
+		</p>
+	</div>
+
+	<!--Challenge Screen-->
+	<div class="screen challenges">
+		<h1 class="title">SELECT A Difficulty Level </h1>
+		<p class="challenges">
+			<span class="level-block enabled" data-level="1"> 1</span>
+			<span class="level-block enabled" data-level="2"> 2</span>
+			<span class="level-block enabled" data-level="3"> 3</span>
+			<span class="level-block enabled" data-level="4">4</span>
+			<span class="level-block enabled" data-level="5"> 5</span>
+			<span class="level-block enabled" data-level="6"> 6</span>
+			<span class="level-block enabled" data-level="7"> 7</span>
+		</p>
+		<p class="footer">
+			<button data-screen="menu">BACK TO MENU</button>
+		</p>
+	</div>
+
+	<div class="screen credits">
+		<h1 class="title">CREDITS</h1>
+		<p>
+			Meeeeeee
+		</p>
+		<p class="footer">
+			<button data-screen="menu">BACK TO MENU</button>
+		</p>
+	</div>
+	<!--Misc Script imports-->
+	<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/gasparesganga-jquery-loading-overlay@2.1.6/dist/loadingoverlay.min.js">
+	</script>
+	<script src="js/loadingOverlay.js"></script>
+	<!--Main Script import-->
+	<script src="js/mainMenu.js"></script>
+</body>
+
+</html>
