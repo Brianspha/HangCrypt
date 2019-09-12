@@ -23,9 +23,9 @@ embark will spin off a local node for you
 
 ### Test net deployment
 Tx Hash
- 0x231aa5d33be3ad16f581a57e142fce13e05aeabb5e6af1381e94ab1eb0384f01 
- 0x560fb3dde761924f2b09b023638853a8de7ffaa14e4d89644fabb735b0870ab9 
- 0xaef6dc7584e57cef57cc5187b118c82af1f7fa8c7ee1338699006145cc88fdc9 
+HangToken- 0x560fb3dde761924f2b09b023638853a8de7ffaa14e4d89644fabb735b0870ab9 
+0xabdd04ecb653f4e83bd809c5147c07a592b5ef00dbd8055981671346c5df3946 
+HangCrypt (Main Contract)- 0x73348876690a7c238cd133a1c3b683e36c776b284536ed01e5c3eb5b6c55db60  
  
  Deployment to ROPSTEN is taking some time 
  
