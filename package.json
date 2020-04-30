@@ -17,7 +17,7 @@
     "alertifyjs": "^1.11.3",
     "dotenv": "^8.1.0",
     "gasparesganga-jquery-loading-overlay": "^2.1.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-popup-overlay": "^2.1.1",
     "sweetalert2": "^8.11.7"
   }
