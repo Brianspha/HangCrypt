@@ -13,7 +13,7 @@
   },
   "gitHead": "21f5367bebe10594ffcc26f3aa4b574b1226472a",
   "dependencies": {
-    "@openzeppelin/contracts": "^2.3.0",
+    "@openzeppelin/contracts": "^4.7.2",
     "alertifyjs": "^1.11.3",
     "dotenv": "^8.1.0",
     "gasparesganga-jquery-loading-overlay": "^2.1.6",
